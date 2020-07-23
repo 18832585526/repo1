@@ -2,20 +2,4 @@ hello world！！！
 Hello World!!!
 Hello world!
 hello world！！！
-Hello World!!!
-Hello world!
-<<<<<<< HEAD
-hello world！！！
-Hello World!!!
-Hello world!
-hello world！！！
-Hello World!!!
-Hello world!
-hello world！！！
-Hello World!!!
-Hello world!
-hello world！！！
-Hello World!!!
-Hello world!
-=======
->>>>>>> a93258c578dadade28ecb03bfaed4c4b225dd731
+
